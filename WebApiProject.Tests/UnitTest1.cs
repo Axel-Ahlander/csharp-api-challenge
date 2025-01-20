@@ -1,4 +1,4 @@
-﻿namespace dishwasher;
+﻿namespace WebApiProject.Tests;
 
 public class Tests
 {
